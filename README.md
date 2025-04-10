@@ -13,6 +13,11 @@ Este projeto tem como objetivo o desenvolvimento de uma aplicação web voltada 
 
 ## Autores:
 
+- [@aymesantos](https://github.com/aymesantos)  
+- [@alveshenriique](https://github.com/alveshenriique)  
+- [@CoderAugusto](https://github.com/CoderAugusto)  
+- [@vitorvasconceloss](https://github.com/vitorvmpontes)
+
 ## Descrição do Projeto
 
 O consumo de filmes e séries faz parte da rotina de milhões de pessoas ao redor do mundo. Com o aumento da oferta de conteúdo, surge a necessidade de uma plataforma que auxilie os usuários a organizar o que assistem, avaliar as obras, e compartilhar suas opiniões com outras pessoas. A aplicação permitirá que os usuários:
