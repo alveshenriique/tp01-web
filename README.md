@@ -40,7 +40,7 @@ O consumo de filmes e séries faz parte da rotina de milhões de pessoas ao redo
 ## Tecnologias Utilizadas
 
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
+- **Backend**: 
 - **Banco de Dados**: 
 - **API Externa**: 
 - **Autenticação**: 
@@ -52,7 +52,7 @@ Para executar o projeto em sua máquina local, siga os seguintes passos:
 
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org/) instalado.
+- 
 
 ### Passos
 
